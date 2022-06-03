@@ -20,8 +20,3 @@ PERMISSIONS AND COMMANDS
 /chreload > customhelp.reload
 
 ---
-
-If you need support and for report bugs: Mattio12123#6606 (Discord) // @Mattio12123Dev (Telegram) // Private message on Spigot 
-https://www.spigotmc.org/members/mattia927292.1029021/
-
-----------------------------------------

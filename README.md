@@ -5,17 +5,15 @@ CustomHelp plugin on Spigot.
 
 Native Minecraft Version: 1.16
 
-Tested Minecraft Versions: 1.8 // 1.16
+Tested Minecraft Versions:  1.16
 
-Coming Soon Version: 1.17
+Contributors: MattiOfHell, propants05
 
-Contributors: Mattia927292, propants05
-
-Languages Supported: All languages are supported, you can edit AutoBroadcast and /help in config.yml
+Languages Supported: All languages
 
 ----
 
-PERMISSIONS
+PERMISSIONS AND COMMANDS
 
 /help > customhelp.help
 
